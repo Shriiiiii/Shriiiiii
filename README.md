@@ -7,7 +7,7 @@ Shridhar G  🚀 Full-Stack Developer | Certified Python & AWS Cloud Developer
 
 🏗️ Key Projects:
 * Plagiarism Checker: Built with Django, React, and NLP-based Cosine Similarity.
-* * Stockholder Portfolio: Full-stack MERN application deployed on Vercel/Render.<br>
+* Stockholder Portfolio: Full-stack MERN application deployed on Vercel/Render.<br>
 
 🌱 Currently exploring advanced AI integration within Full-Stack architectures.
 
