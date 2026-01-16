@@ -1,9 +1,11 @@
 # 💫 About Me:
-Shridhar G  🚀 Full-Stack Developer | Certified Python & AWS Cloud Developer 
+Shridhar G  🚀 Full-Stack Developer | Certified Python & AWS Cloud Developer<br> 
 🎓 B.Tech in CSE @ Srinivas University ('26) <br>
 
 🛠️ Tech Stack:
-* Backend: Python (Django/DRF), Node.js, Express.js * Frontend: React.js, JavaScript, HTML/CSS * Cloud & Databases: AWS, MongoDB, MySQL <br>
+* Backend: Python (Django/DRF), Node.js, Express.js
+* Frontend: React.js, JavaScript, HTML/CSS 
+* Cloud & Databases: AWS, MongoDB, MySQL <br>
 
 🏗️ Key Projects:
 * Plagiarism Checker: Built with Django, React, and NLP-based Cosine Similarity.
