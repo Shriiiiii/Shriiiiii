@@ -1,6 +1,6 @@
 # 💫 About Me:
 Shridhar G <br>
-🚀 Full-Stack Developer | Certified Python & AWS Cloud Developer<br> 
+🚀 Full-Stack Developer | Certified Python <br> 
 🎓 B.Tech in CSE @ Srinivas University ('26) <br>
 
 🛠️ Tech Stack:
